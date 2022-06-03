@@ -1,6 +1,6 @@
 ﻿/*
  * PROJECT UAS PV -APLIKASI NILAI AKHIR MAHASISWA-
- * Nama: Muhammad Rizky Prayoga (201401024) & Sitti Safiatun Naja Koto (201401015)
+ * Nama: Muhammad Rizky Prayoga (201401024)
  */
  
 using System;
