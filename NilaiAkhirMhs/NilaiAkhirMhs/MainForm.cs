@@ -1,6 +1,7 @@
 ﻿/*
  * PROJECT UAS PV -APLIKASI NILAI AKHIR MAHASISWA-
  * Nama: Muhammad Rizky Prayoga (201401024)
+ * KOM : A
  */
  
 using System;
